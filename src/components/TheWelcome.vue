@@ -2,7 +2,7 @@
 import { Player } from '@galacean/effects';
 import '@galacean/effects-plugin-model';
 
-const json = 'https://mdn.alipayobjects.com/mars/afts/file/A*B_VAQafaBMAAAAAAAAAAAAAADlB4AQ';
+const json = '/assets/data.json';
 
 export default {
   player: null,
