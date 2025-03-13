@@ -11,8 +11,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
-    "@galacean/effects": "2.1.2",
-    "@galacean/effects-plugin-model": "2.1.2",
+    "@galacean/effects": "2.2.7",
+    "@galacean/effects-plugin-model": "2.2.7",
     "vue": "^3.4.21"
   },
   "devDependencies": {
